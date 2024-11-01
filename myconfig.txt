@@ -1,7 +1,7 @@
-vless://82255654-c1cc-4e7a-8565-aabaa5eacd15@37.152.191.17:443?type=ws&path=%2Fnoname&host=arv.salamemanbeto.shop&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=arv.salamemanbeto.shop#User-ws-On%20automatic%20nononoo
-vless://c9af01ec-26d0-422a-8abc-f1924f627e09@37.152.191.17:9443?type=tcp&security=none#user-TCP-On%20auto%20nononoo*%3A
-vless://ff64bfdd-e54a-4316-a375-6a6a62a5b45f@37.152.191.17:8087?type=grpc&serviceName=soft98.ir&authority=soft98.ir&security=reality&pbk=lXiTddhY0gmTyNBjFXY7qtlkdo5o2qAnSRZ0yK4YRDc&fp=random&sni=yahoo.com&sid=c115ef4444adf540&spx=%2F#Users-GRPC-On%20Auto%20nononoo
-vless://2babad09-e67a-41b1-97d7-aee8838b3a63@150.241.98.224:32778?type=tcp&security=none#tcp-nononoo%20soon
-vless://82255654-c1cc-4e7a-8565-aabaa5eacd15@arv.salamemanbeto.shop:443?type=ws&path=%2Fnoname&host=arv.salamemanbeto.shop&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=arv.salamemanbeto.shop#User-ws-On%20automatic%20nononoo
-vless://c9af01ec-26d0-422a-8abc-f1924f627e09@arv.salamemanbeto.shop:9443?type=tcp&security=none#user-TCP-On%20auto%20nononoo*%3A
+vless://82255654-c1cc-4e7a-8565-aabaa5eacd15@37.152.191.17:443?type=ws&path=%2Fnoname&host=arv.salamemanbeto.shop&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=arv.salamemanbeto.shop#User-ws-On%20automatic%20
+vless://c9af01ec-26d0-422a-8abc-f1924f627e09@37.152.191.17:9443?type=tcp&security=none#user-TCP-On%20auto%20*%3A
+vless://ff64bfdd-e54a-4316-a375-6a6a62a5b45f@37.152.191.17:8087?type=grpc&serviceName=soft98.ir&authority=soft98.ir&security=reality&pbk=lXiTddhY0gmTyNBjFXY7qtlkdo5o2qAnSRZ0yK4YRDc&fp=random&sni=yahoo.com&sid=c115ef4444adf540&spx=%2F#Users-GRPC-On%20Auto%20
+vless://2babad09-e67a-41b1-97d7-aee8838b3a63@150.241.98.224:32778?type=tcp&security=none#tcp-%20
+vless://82255654-c1cc-4e7a-8565-aabaa5eacd15@arv.salamemanbeto.shop:443?type=ws&path=%2Fnoname&host=arv.salamemanbeto.shop&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=arv.salamemanbeto.shop#User-ws-On%20automatic%20
+vless://c9af01ec-26d0-422a-8abc-f1924f627e09@arv.salamemanbeto.shop:9443?type=tcp&security=none#user-TCP-On%20auto%20*%3A
 vless://ff64bfdd-e54a-4316-a375-6a6a62a5b45f@arv.salamemanbeto.shop:8087?type=grpc&serviceName=soft98.ir&authority=soft98.ir&security=reality&pbk=lXiTddhY0gmTyNBjFXY7qtlkdo5o2qAnSRZ0yK4YRDc
