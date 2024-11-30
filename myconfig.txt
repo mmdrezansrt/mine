@@ -1,8 +1,6 @@
-vless://417abdcd-8046-4a8a-85d3-a65f62d2dad0@157.173.99.33:32778?type=tcp&security=none#TCP%20Direct-0
-vless://2babad09-e67a-41b1-97d7-aee8838b3a63@150.241.98.224:32778?type=tcp&security=none#TCP-Direct-1
+vless://417abdcd-8046-4a8a-85d3-a65f62d2dad0@157.173.99.33:32778?type=tcp&security=none#TCP%20Direct-1
 vless://743317d8-7273-459b-b3bc-da3613932716@37.152.191.17:8887?encryption=none&security=none&type=tcp&headerType=none#TCP-Tor-Tunnel-2
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WFJHakZ3ZE1YOVo3V3FIdktsWXpSdWk0ME1JMHBTNWRMOXVqL3ZDMHZwZz06T3UrMHo0bUNGYm9yVGhSR3RVTkl6NC9ZdVBxTGxjSDFITURXakN4MUtNbz0@37.152.191.17:54639?type=tcp#shadowSocks-Tunnel-3
 vless://c9af01ec-26d0-422a-8abc-f1924f627e09@37.152.191.17:9443?type=tcp&security=none#TCP-Tunel-4
 vless://ff64bfdd-e54a-4316-a375-6a6a62a5b45f@37.152.191.17:8087?type=grpc&serviceName=soft98.ir&authority=soft98.ir&security=reality&pbk=webPij_3dac9mCiRRJizxqNsSWUMGDI3EIWZi-JxCCA&fp=random&sni=yahoo.com&sid=c115ef4444adf540&spx=%2F#GRPC-5
 vless://82255654-c1cc-4e7a-8565-aabaa5eacd15@37.152.191.17:443?type=ws&path=%2Fn%3D%3Fsd&host=salam.salamemanbeto.shop&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=salam.salamemanbeto.shop#WS-Tunnel-6
-
