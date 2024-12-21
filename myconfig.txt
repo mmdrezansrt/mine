@@ -1,2 +1,3 @@
 vless://ca753e9e-16b4-4fab-ae07-6714e21b958e@157.173.99.33:29523?type=tcp&security=none#TCP%20Direct-0
 vless://417abdcd-8046-4a8a-85d3-a65f62d2dad0@157.173.99.33:32778?type=tcp&security=none#TCP%20Direct-1
+vless://5a52da7b-bcba-4d93-8d57-7602ccf0738b@157.173.99.33:9052?encryption=none&security=none&type=tcp&headerType=none#TCP%20_%20Tor-2
