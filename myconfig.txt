@@ -1,3 +1,1 @@
-vless://ca753e9e-16b4-4fab-ae07-6714e21b958e@157.173.99.33:29523?type=tcp&security=none#TCP%20Direct-0
-vless://417abdcd-8046-4a8a-85d3-a65f62d2dad0@157.173.99.33:32778?type=tcp&security=none#TCP%20Direct-1
-vless://5a52da7b-bcba-4d93-8d57-7602ccf0738b@157.173.99.33:9052?encryption=none&security=none&type=tcp&headerType=none#TCP%20_%20Tor-2
+vless://1@برای دریافت کانفیگ جدید با ما تماس بگیرید:3739?encryption=none&security=none&type=tcp&headerType=none#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D8%AA%D9%85%D8%A7%D8%B3%20%D8%A8%DA%AF%DB%8C%D8%B1%DB%8C%D8%AF
